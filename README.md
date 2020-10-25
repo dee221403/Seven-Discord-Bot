@@ -7,7 +7,7 @@ You should have some basic knowledge about discord bots.
 - ROB#2328
 - N ι l ʂ ȶ a Rᴼᴾ#0007
 - NxS丶Ξvıııl ❍ VıƦaa†#0069
-##### General Commands
+#### General Commands
 `)help [command-name]`<br/>
 `)prefix [new-prefix]`<br/>
 `)ping`<br/>
