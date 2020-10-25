@@ -12,3 +12,20 @@ You should have some basic knowledge about discord bots.
 `)prefix [new-prefix]`<br/>
 `)ping`<br/>
 `)invite`<br/>
+`)embed [description]`<br/>
+`)av [user]`<br/>
+#### Moderation Commands
+`)suppress [user]`<br/>
+`)unsuppress [user]`<br/>
+`)role [user] [role]`<br/>
+`)config [configures]`<br/>
+`)purge [user/amount]`<br/>
+#### Music Commands
+`)join`<br/>
+`)play [song-name/url]`<br/>
+`)skip`<br/>
+`)volume [1-5]`<br/>
+`)pause`<br/>
+`)resume`<br/>
+`)queue`<br/>
+`)dc`<br/>
