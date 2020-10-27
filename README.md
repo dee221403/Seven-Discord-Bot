@@ -28,4 +28,4 @@ You should have some basic knowledge about discord bots.
 `)pause`<br/>
 `)resume`<br/>
 `)queue`<br/>
-`)dc`<br/>
+`)disconnect`<br/>
