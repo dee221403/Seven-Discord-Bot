@@ -3,10 +3,10 @@ Seven is a discord bot. Seven Bot can be used as moderation bot as well as music
 ### Requirements
 You should have some basic knowledge about discord bots.
 ### Developer Team
-Flickerᴰᴱᶻ ⏦ 🍁#5601<br/>
-ROB#2328<br/>
-N ι l ʂ ȶ a Rᴼᴾ#0007<br/>
-NxS丶Ξvıııl ❍ VıƦaa†#0069<br/>
+Flickerᴰᴱᶻ ⏦ 🍁#5601 (442237510110674945)<br/>
+ROB#2328 (375230226952749058)<br/>
+N ι l ʂ ȶ a Rᴼᴾ#0007 (469826980825661451)<br/>
+NxS丶Ξvıııl ❍ VıƦaa†#0069 (631885480413233178)<br/>
 #### General Commands
 `)help [command-name]`<br/>
 `)prefix [new-prefix]`<br/>
