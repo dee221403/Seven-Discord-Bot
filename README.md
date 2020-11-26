@@ -69,5 +69,8 @@ Resume the song if paused.<br>
 `)queue`<br/>
 Shows the queue of the server.<br>
 
+`)loop`<br>
+This will create a loop for a song.<br>
+
 `)disconnect`<br/>
 Disconnect from voice channel. 
