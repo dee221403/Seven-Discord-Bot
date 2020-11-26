@@ -24,7 +24,10 @@ This will provide the invite link for bot.<BR>
 This will convert arguments into embed<BR>
 
 `)av [user]`<br/>
-Will show the avatar of users.
+Will show the avatar of users.<br>
+
+`)userinfo [user]`<br>
+This will show the detailed information about a user (the user should be a guild member otherwise it will throw error)<br>
 
 ## Moderation Commands
 `)suppress [user]`<br/>
@@ -35,6 +38,9 @@ This will unsuppress the user.<BR>
 
 `)role [user] [role]`<br/>
 This command will change the users roles.<BR>
+  
+`)massrole [users] [role]`<br>
+This will add the mentioned role to all the mentioned users.<br>
 
 `)config [configures]`<br/>
 These are some guild configurs. Will guided when required.<BR>
